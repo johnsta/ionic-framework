@@ -68,7 +68,8 @@ core/www/
 # playwright
 core/test-results/
 core/playwright-report/
-core/**/*-snapshots
+# core/**/*-snapshots
+
 
 # angular
 angular/css/
